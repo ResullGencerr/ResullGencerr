@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="left">Hello!<br><br>I'm Resul Gencer, a 23-year-old software engineer. I enjoy coding and diving into new technologies. The hours spent in front of the computer not only fuel my passion for learning but also nurture my creativity.<br><br>I've been in the software development realm for about 4 years now, engaging in various projects during this time. I'm particularly interested in web development and mobile app development. I have experience with languages and technologies such as HTML, CSS, JavaScript, React, Node.js, React Native, SQL, and MongoDB. I've worked on various projects using these technologies and continue to enhance my skills.<br><br>On my GitHub profile, you can find my personal projects and contributions to open-source projects. Furthermore, I want to emphasize that I'm always open to learning new things and sharing knowledge.<br><br>Feel free to reach out to me via GitHub if you'd like to connect.<br><br>Thank you!</h4>
+<h4 align="left">Hello!<br><br>I'm Resul Gencer, a 23-year-old software engineer. I enjoy coding and diving into new technologies. The hours spent in front of the computer not only fuel my passion for learning but also nurture my creativity.<br><br>I've been in the software development realm for about 4 years now, engaging in various projects during this time. I'm particularly interested in web development and mobile app development. I have experience with languages and technologies such as HTML, CSS, JavaScript, React, Node.js, React Native, Flutter, and MongoDB. I've worked on various projects using these technologies and continue to enhance my skills.<br><br>On my GitHub profile, you can find my personal projects and contributions to open-source projects. Furthermore, I want to emphasize that I'm always open to learning new things and sharing knowledge.<br><br>Feel free to reach out to me via GitHub if you'd like to connect.<br><br>Thank you!</h4>
 
 ###
 
@@ -32,7 +32,7 @@
 <p align="left">Languages and Tools:</p>
 
 ###
- [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />]
+ <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
