@@ -32,8 +32,7 @@
 <p align="left">Languages and Tools:</p>
 
 ###
- <img src="https://avatars.githubusercontent.com/u/14101776?s=280&v=4" height="40" alt="kotlin" logo"  />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" alt="kotlin" logo"  />
+ [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
